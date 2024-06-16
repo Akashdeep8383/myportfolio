@@ -1,0 +1,24 @@
+h1{
+    height:100px;
+    width:200px;
+    color:blue;
+    border-width:200px ;
+    text-align: center;
+     
+
+    border-color:black ;
+}
+p{
+    color:rgb(0,200,100)
+}
+ul{
+    color:gold
+}
+input{
+    color: black;
+}
+body{
+    color:navy;
+    background-color:rgb(8,8,29) ;
+    
+}
